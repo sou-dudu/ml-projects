@@ -1,0 +1,22 @@
+# Python specific ignores
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
